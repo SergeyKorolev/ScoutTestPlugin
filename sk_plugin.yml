@@ -1,0 +1,4 @@
+options:
+  test_option:
+    name: Test option name
+    notes: Test option notes
